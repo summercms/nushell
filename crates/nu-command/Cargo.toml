@@ -64,7 +64,7 @@ num-traits = "0.2.14"
 pathdiff = "0.2.1"
 powierza-coefficient = "1.0.1"
 quick-xml = "0.23.0"
-rand = "0.8"
+rand = "0.9"
 rayon = "1.5.1"
 reqwest = {version = "0.11", features = ["blocking", "json"] }
 roxmltree = "0.14.0"
